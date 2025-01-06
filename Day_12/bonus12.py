@@ -1,0 +1,1 @@
+feet_inches = input("enter feet and inches: ")
